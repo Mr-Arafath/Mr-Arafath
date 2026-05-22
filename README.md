@@ -14,21 +14,21 @@
 
 ---
 
-# ╔═╗ ABOUT ME
+# ◈ ABOUT ME
 
 <div align="center">
 
 ```yaml
-name: Mohamed Arafath
-located_in: Coimbatore, India
-current_focus:
+Name: Mohamed Arafath A
+Located_in: Coimbatore, India
+Current_focus:
   - Cinematic Poster Design
   - Premium UI/UX Concepts
   - Frontend Development
   - Visual Storytelling
-creative_style: Dark • Minimal • Futuristic
-learning_now: React • Motion Design • Creative Coding
-life_philosophy: "Design should feel like an experience"
+Creative_style: Dark • Minimal • Futuristic
+Learning_now: React • Motion Design • Creative Coding
+Life_philosophy: "Design should feel like an experience"
 ```
 
 </div>
@@ -61,7 +61,7 @@ Creative styling & futuristic layouts
 Cinematic manipulation & posters
 </td>
 <td align="center" width="180">
-<img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="65" /><br><br>
+<img src="[https://cdn.worldvectorlogo.com/logos/canva-1.svg](https://static.vecteezy.com/system/resources/thumbnails/056/850/847/small_2x/canva-app-logo-on-a-transparent-background-free-png.png)" width="65" /><br><br>
 <b>Canva</b><br>
 Social media & branding visuals
 </td>
@@ -74,7 +74,7 @@ Social media & branding visuals
 Modern UI/UX concepts
 </td>
 <td align="center" width="180">
-<img src="https://www.svgrepo.com/show/354202/photopea.svg" width="65" /><br><br>
+<img src="[https://www.svgrepo.com/show/354202/photopea.svg](https://www.photopea.com/promo/icon512.png)" width="65" /><br><br>
 <b>Photopea</b><br>
 Online creative editing workflows
 </td>
@@ -174,17 +174,6 @@ A vibrant commercial poster project designed with bold typography, cinematic com
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/Mr-Arafath">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.behance.net/">
-<img src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 </div>
 
@@ -216,9 +205,6 @@ A vibrant commercial poster project designed with bold typography, cinematic com
 
 <br><br>
 
-<img width="80%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
-
-<br><br>
 
 ```txt
 > SYSTEM STATUS : ONLINE
@@ -239,14 +225,6 @@ A vibrant commercial poster project designed with bold typography, cinematic com
 # ✦ "Design is not decoration. It's digital storytelling." ✦
 
 <br>
-
-<div align="center">
-
-<img width="48%" src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" />
-
-<img width="48%" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" />
-
-</div>
 
 </div>
 
