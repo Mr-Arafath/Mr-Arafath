@@ -1,147 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=MOHAMED%20ARAFATH&fontAlign=50&fontAlignY=38&fontSize=68&desc=GRAPHIC%20DESIGNER%20•%20CREATIVE%20DEVELOPER%20•%20VISUAL%20ARTIST&descAlignY=60&animation=twinkling&fontColor=ffffff&color=0:050816,25:130F40,50:3B1E70,75:6A00FF,100:00E5FF" />
+# MOHAMED ARAFATH
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNnNm1wN3R3ZXJ4dGRmZ3l0NXFwbWx0NGF0bnM1YmN6dHkwdjRxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
+### GRAPHIC DESIGNER • VISUAL STORYTELLER • CREATIVE DEVELOPER
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Cinematic+Poster+Designer;Creative+UI%2FUX+Explorer;Modern+Frontend+Developer;Building+Premium+Visual+Experiences;Designing+Futuristic+Digital+Worlds" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Designing+premium+visual+experiences;Creating+cinematic+brand+identity;Building+modern+digital+aesthetics;Turning+ideas+into+art+%26+interfaces" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Creative%20Designer-ffffff?style=for-the-badge&logo=adobecreativecloud&logoColor=black" />
+<img src="https://img.shields.io/badge/UI%2FUX%20Explorer-111111?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Frontend%20Learner-6C63FF?style=for-the-badge&logo=react&logoColor=white" />
 
 </div>
 
 ---
 
-# ⚡ DIGITAL CREATOR PROFILE
+# ✦ ABOUT
 
-<div align="center">
+> I create modern visual experiences that blend cinematic aesthetics, branding psychology, and futuristic UI concepts.
 
 ```txt
-🎬 CINEMATIC VISUAL STORYTELLER
-🌌 DARK UI & FUTURISTIC DESIGN LOVER
-⚡ CREATIVE FRONTEND EXPLORER
-🚀 BUILDING A DIGITAL EMPIRE FRAME BY FRAME
-🔥 TURNING SIMPLE IDEAS INTO PREMIUM EXPERIENCES
-```
-
-</div>txt
-🎨 Turning ideas into cinematic visuals
-⚡ Designing futuristic digital experiences
-🚀 Learning modern frontend development
-🔥 Obsessed with dark UI aesthetics & branding
+Location    : Coimbatore, India
+Focus       : Posters • Branding • Creative UI
+Learning    : React • Frontend • Motion Design
+Style       : Dark • Minimal • Futuristic
 ```
 
 ---
 
-# 🧬 CREATIVE DNA
+# ✦ CREATIVE TOOLKIT
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,figma,github,vscode" />
+<img src="https://skillicons.dev/icons?i=photoshop,figma,html,css,js,react,vscode,github" />
 
 </div>
 
-<div align="center">
-
-| DESIGN    | DEVELOPMENT | CREATIVE           |
-| --------- | ----------- | ------------------ |
-| Photoshop | HTML        | Poster Design      |
-| Canva     | CSS         | UI/UX              |
-| Figma     | JavaScript  | Branding           |
-| Lightroom | React       | Creative Direction |
-
-</div>
-
----
-
-# 🛸 CURRENT TRANSMISSION
+<br>
 
 <div align="center">
 
-🌠 Building a premium creative portfolio
-🎬 Designing cinematic posters & brand visuals
-🌐 Creating modern responsive websites
-💡 Exploring AI tools & futuristic interfaces
+| DESIGN    | WEB        | CREATIVE            |
+| --------- | ---------- | ------------------- |
+| Photoshop | HTML       | Cinematic Posters   |
+| Canva     | CSS        | Visual Branding     |
+| Figma     | JavaScript | UI Concepts         |
+| Lightroom | React      | Digital Experiences |
 
 </div>
 
 ---
 
-# 🎞 FEATURED VISUAL EXPERIENCES
+# ✦ FEATURED PROJECT
 
 <div align="center">
 
 ## 🍦 POSTERS-ICE-CREAMS
 
-✨ Modern advertisement poster designed using Canva
-🔥 Bold typography + vibrant visuals + promotional layout
-🎨 Focused on creating eye-catching branding aesthetics
+Modern advertisement poster designed with bold composition, vibrant contrast, and premium promotional aesthetics.
 
 </div>
 
 ---
 
-# 📡 NEURAL ACTIVITY MATRIX
+# ✦ GITHUB VISUALS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-Arafath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mr-Arafath&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=6C63FF" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Arafath&theme=tokyonight&hide_border=true&background=00000000" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Arafath&theme=transparent&hide_border=true&stroke=6C63FF&ring=ffffff&fire=6C63FF&currStreakLabel=ffffff" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Arafath&theme=tokyo-night&hide_border=true&bg_color=00000000" />
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Arafath&bg_color=00000000&color=ffffff&line=6C63FF&point=ffffff&hide_border=true" />
 
 </div>
 
 ---
 
-# 🌍 ENTER MY DIGITAL WORLD
+# ✦ CONNECT
 
 <div align="center">
 
 <a href="https://github.com/Mr-Arafath">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://www.behance.net/">
-<img src="https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+<img src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-# 🐍 NEON CONTRIBUTION MATRIX
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+### ✨ "Good design is emotion translated into visuals." ✨
 
 </div>
-
----
-
-# 👁 VISITOR SCANNER
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Mr-Arafath&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-# ✨ "Crafting cinematic digital experiences beyond imagination." ✨
-
-### 🌌 Welcome to the future of creative design 🚀
 
 </div>
 
