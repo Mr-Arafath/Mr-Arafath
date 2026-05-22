@@ -1,59 +1,41 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,20:11071F,40:1E1B4B,60:312E81,80:6D28D9,100:06B6D4&text=MOHAMED%20ARAFATH&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GRAPHIC%20DESIGNER%20•%20VISUAL%20ARTIST%20•%20CREATIVE%20DEVELOPER&descSize=18&descAlignY=58" />
 
-# ⚡ MOHAMED ARAFATH ⚡
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=GRAPHIC+DESIGNER;CINEMATIC+VISUAL+ARTIST;CREATIVE+FRONTEND+DEVELOPER;BUILDING+DIGITAL+EXPERIENCES;WELCOME+TO+MY+CREATIVE+UNIVERSE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=Crafting+cinematic+visual+experiences;Building+futuristic+digital+aesthetics;Transforming+ideas+into+premium+designs;Creative+developer+from+India+%F0%9F%9A%80" />
 
 <br>
 
-<img src="https://img.shields.io/badge/DARK%20AESTHETICS-000000?style=for-the-badge&logo=ghost&logoColor=white" />
-<img src="https://img.shields.io/badge/CINEMATIC%20VISUALS-6C63FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/FUTURISTIC%20UI-00F7FF?style=for-the-badge&logo=figma&logoColor=black" />
-<img src="https://img.shields.io/badge/CREATIVE%20DEVELOPER-FF0080?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/CREATIVE%20MIND-ffffff?style=for-the-badge&logo=adobecreativecloud&logoColor=black" />
+<img src="https://img.shields.io/badge/CINEMATIC%20DESIGNER-6D28D9?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/FRONTEND%20EXPLORER-06B6D4?style=for-the-badge&logo=react&logoColor=white" />
 
 </div>
 
 ---
 
-# 🌌 THE CREATOR
+# ╔═╗ ABOUT ME
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
 ```yaml
 name: Mohamed Arafath
-role: Graphic Designer
-location: Coimbatore, India
-speciality:
-  - Cinematic Posters
-  - Futuristic Interfaces
-  - Visual Branding
-  - Creative Web Design
-currently_learning:
-  - React JS
-  - Motion Design
-  - Creative Coding
-  - Interactive UI
-mindset: "Create visuals people feel"
+located_in: Coimbatore, India
+current_focus:
+  - Cinematic Poster Design
+  - Premium UI/UX Concepts
+  - Frontend Development
+  - Visual Storytelling
+creative_style: Dark • Minimal • Futuristic
+learning_now: React • Motion Design • Creative Coding
+life_philosophy: "Design should feel like an experience"
 ```
-
-</td>
-<td width="50%">
-<img width="100%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
-</td>
-</tr>
-</table>
 
 </div>
 
 ---
 
-# 🧬 DIGITAL PLAYGROUND
+# ◈ DIGITAL PLAYGROUND
 
 <div align="center">
 
@@ -63,74 +45,99 @@ mindset: "Create visuals people feel"
 
 <table>
 <tr>
-<td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="70"/><br><br>
-<b>HTML</b>
+<td align="center" width="180">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="65" /><br><br>
+<b>HTML</b><br>
+Modern semantic web structures
 </td>
-<td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="70"/><br><br>
-<b>CSS</b>
+<td align="center" width="180">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="65" /><br><br>
+<b>CSS</b><br>
+Creative styling & futuristic layouts
 </td>
-<td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="70"/><br><br>
-<b>PHOTOSHOP</b>
+<td align="center" width="180">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="65" /><br><br>
+<b>Photoshop</b><br>
+Cinematic manipulation & posters
 </td>
-<td align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="70"/><br><br>
-<b>CANVA</b>
+<td align="center" width="180">
+<img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="65" /><br><br>
+<b>Canva</b><br>
+Social media & branding visuals
 </td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=figma" width="70"/><br><br>
-<b>FIGMA</b>
+</tr>
+
+<tr>
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=figma" width="65" /><br><br>
+<b>Figma</b><br>
+Modern UI/UX concepts
 </td>
-<td align="center">
-<img src="https://www.svgrepo.com/show/354202/photopea.svg" width="70"/><br><br>
-<b>PHOTOPEA</b>
+<td align="center" width="180">
+<img src="https://www.svgrepo.com/show/354202/photopea.svg" width="65" /><br><br>
+<b>Photopea</b><br>
+Online creative editing workflows
+</td>
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=github" width="65" /><br><br>
+<b>GitHub</b><br>
+Creative developer portfolio
+</td>
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=vscode" width="65" /><br><br>
+<b>VS Code</b><br>
+Frontend coding environment
 </td>
 </tr>
 </table>
 
 </div>
 
+</div>
+
 ---
 
-# 🎞 CREATIVE SHOWCASE
+# ✦ FEATURED VISUAL PROJECT
 
 <div align="center">
 
-<img width="100%" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750739-fd6f5c6c-4d9d-4f93-9f5b-6d5d9e5a6f0a.gif" />
 
 ## 🍦 POSTERS-ICE-CREAMS
 
-✨ Modern poster advertisement project
-🔥 Cinematic composition & premium typography
-⚡ Bold colors with high-energy branding aesthetics
+A vibrant commercial poster project designed with bold typography, cinematic composition, and modern promotional aesthetics.
 
 </div>
 
 ---
 
-# ⚔ GITHUB ANALYTICS
+# ⚡ GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mr-Arafath&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF0080&text_color=ffffff&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mr-Arafath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=8B5CF6&text_color=ffffff&include_all_commits=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Arafath&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=FF0080&fire=00F7FF&currStreakLabel=ffffff" />
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Arafath&custom_title=CREATIVE%20ACTIVITY%20GRAPH&bg_color=0D1117&color=ffffff&line=00F7FF&point=FF0080&area=true&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Arafath&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5FF&ring=8B5CF6&fire=00E5FF&currStreakLabel=ffffff" />
 
 <br><br>
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-Arafath&theme=radical" />
+<img src="https://github-profile-trophy.vercel.app/?username=Mr-Arafath&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Arafath&custom_title=Creative%20Activity%20Graph&bg_color=0D1117&color=ffffff&line=00E5FF&point=8B5CF6&area=true&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-Arafath&theme=tokyonight" />
 
 </div>
 
 ---
 
-# 🚀 CURRENT CREATIVE MISSION
+# ☄ CURRENT CREATIVE MISSION
+
+<div align="center">
 
 ```txt
 🎬 Designing cinematic posters
@@ -143,9 +150,11 @@ mindset: "Create visuals people feel"
 🖥 Crafting immersive digital experiences
 🌠 Building a unique creative identity online
 🔥 Turning imagination into interactive art
-👑 Creating designer-level digital aesthetics
-🎥 Mixing storytelling with futuristic visuals
 ```
+
+</div>
+
+</div>
 
 ---
 
@@ -154,7 +163,7 @@ mindset: "Create visuals people feel"
 <div align="center">
 
 <a href="https://github.com/Mr-Arafath">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:ARAFATH2005A@GMAIL.COM">
@@ -165,11 +174,23 @@ mindset: "Create visuals people feel"
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="https://github.com/Mr-Arafath">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.behance.net/">
+<img src="https://img.shields.io/badge/Behance-0057FF?style=for-the-badge&logo=behance&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION MATRIX
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -177,41 +198,58 @@ mindset: "Create visuals people feel"
 
 <br><br>
 
-<img width="100%" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
+<img width="100%" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" />
 
 </div>
 
 ---
 
-# 💻 VISITOR TERMINAL
+# ✨ VISITOR TERMINAL
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=SYSTEM+ONLINE...;CREATIVE+ENGINE+RUNNING...;LOADING+CINEMATIC+EXPERIENCES...;WELCOME+TO+THE+FUTURE..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE;CREATIVE+MODE+ACTIVATED;LOADING+VISUAL+EXPERIENCES;WELCOME+TO+MY+DIGITAL+WORLD" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Mr-Arafath&label=VISITORS&color=FF0080&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Mr-Arafath&label=VISITORS&color=8B5CF6&style=for-the-badge" />
 
 <br><br>
 
-```bash
-> booting creative-core.exe
-> initializing futuristic-ui
-> loading visual-assets
-> creativity mode enabled
-> status : LEGENDARY DESIGNER IN PROGRESS
+<img width="80%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+
+<br><br>
+
+```txt
+> SYSTEM STATUS : ONLINE
+> CREATIVE ENGINE : RUNNING
+> VISUAL MODE : CINEMATIC
+> DESIGN POWER : MAXIMUM
+> NEXT TARGET : BUILD SOMETHING LEGENDARY
 ```
 
 </div>
 
+</div>
+
 ---
 
 <div align="center">
 
-# ✨ DESIGN • CREATE • INSPIRE ✨
+# ✦ "Design is not decoration. It's digital storytelling." ✦
 
-<img width="49%" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" />
-<img width="49%" src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" />
+<br>
+
+<div align="center">
+
+<img width="48%" src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" />
+
+<img width="48%" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" />
 
 </div>
+
+</div>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F0C29,50:302B63,100:24243E" />
