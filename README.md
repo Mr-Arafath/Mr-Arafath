@@ -39,30 +39,59 @@ life_philosophy: "Design should feel like an experience"
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=html,css,figma,github,vscode" />
+
+<br><br>
+
 <table>
 <tr>
 <td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=photoshop" width="65" /><br><br>
-<b>Photoshop</b><br>
-Cinematic posters & visual manipulation
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="65" /><br><br>
+<b>HTML</b><br>
+Modern semantic web structures
 </td>
+<td align="center" width="180">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="65" /><br><br>
+<b>CSS</b><br>
+Creative styling & futuristic layouts
+</td>
+<td align="center" width="180">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="65" /><br><br>
+<b>Photoshop</b><br>
+Cinematic manipulation & posters
+</td>
+<td align="center" width="180">
+<img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="65" /><br><br>
+<b>Canva</b><br>
+Social media & branding visuals
+</td>
+</tr>
+
+<tr>
 <td align="center" width="180">
 <img src="https://skillicons.dev/icons?i=figma" width="65" /><br><br>
 <b>Figma</b><br>
-Modern UI & interface concepts
+Modern UI/UX concepts
 </td>
 <td align="center" width="180">
-<img src="https://skillicons.dev/icons?i=react" width="65" /><br><br>
-<b>React</b><br>
-Interactive frontend experiences
+<img src="https://www.svgrepo.com/show/354202/photopea.svg" width="65" /><br><br>
+<b>Photopea</b><br>
+Online creative editing workflows
 </td>
 <td align="center" width="180">
 <img src="https://skillicons.dev/icons?i=github" width="65" /><br><br>
 <b>GitHub</b><br>
-Creative portfolio & projects
+Creative developer portfolio
+</td>
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=vscode" width="65" /><br><br>
+<b>VS Code</b><br>
+Frontend coding environment
 </td>
 </tr>
 </table>
+
+</div>
 
 </div>
 
@@ -86,13 +115,21 @@ A vibrant commercial poster project designed with bold typography, cinematic com
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mr-Arafath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=06B6D4&text_color=a9b1d6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mr-Arafath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=8B5CF6&text_color=ffffff&include_all_commits=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Arafath&theme=tokyonight&hide_border=true&background=0D1117&ring=6D28D9&fire=06B6D4&currStreakLabel=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Arafath&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5FF&ring=8B5CF6&fire=00E5FF&currStreakLabel=ffffff" />
 
 <br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Arafath&custom_title=Creative%20Activity%20Graph&bg_color=0D1117&color=ffffff&line=06B6D4&point=6D28D9&area=true&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Mr-Arafath&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Arafath&custom_title=Creative%20Activity%20Graph&bg_color=0D1117&color=ffffff&line=00E5FF&point=8B5CF6&area=true&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-Arafath&theme=tokyonight" />
 
 </div>
 
@@ -107,7 +144,15 @@ A vibrant commercial poster project designed with bold typography, cinematic com
 🌌 Creating futuristic user interfaces
 🚀 Building premium portfolio experiences
 ⚡ Exploring motion & interaction design
+🎨 Developing luxury visual branding concepts
+🧠 Learning modern frontend technologies
+💡 Experimenting with creative animations
+🖥 Crafting immersive digital experiences
+🌠 Building a unique creative identity online
+🔥 Turning imagination into interactive art
 ```
+
+</div>
 
 </div>
 
@@ -121,8 +166,16 @@ A vibrant commercial poster project designed with bold typography, cinematic com
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="mailto:ARAFATH2005A@GMAIL.COM">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mohamed-arafatha/">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Mr-Arafath">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.behance.net/">
@@ -143,6 +196,10 @@ A vibrant commercial poster project designed with bold typography, cinematic com
 
 <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
+<br><br>
+
+<img width="100%" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" />
+
 </div>
 
 ---
@@ -151,16 +208,27 @@ A vibrant commercial poster project designed with bold typography, cinematic com
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Mr-Arafath&label=VISITORS&color=6D28D9&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE;CREATIVE+MODE+ACTIVATED;LOADING+VISUAL+EXPERIENCES;WELCOME+TO+MY+DIGITAL+WORLD" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Mr-Arafath&label=VISITORS&color=8B5CF6&style=for-the-badge" />
+
+<br><br>
+
+<img width="80%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 <br><br>
 
 ```txt
 > SYSTEM STATUS : ONLINE
-> DESIGN MODE   : ACTIVE
-> CREATIVITY    : UNLIMITED
-> NEXT GOAL     : BUILD SOMETHING ICONIC
+> CREATIVE ENGINE : RUNNING
+> VISUAL MODE : CINEMATIC
+> DESIGN POWER : MAXIMUM
+> NEXT TARGET : BUILD SOMETHING LEGENDARY
 ```
+
+</div>
 
 </div>
 
@@ -170,7 +238,15 @@ A vibrant commercial poster project designed with bold typography, cinematic com
 
 # ✦ "Design is not decoration. It's digital storytelling." ✦
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,20:11071F,40:1E1B4B,60:312E81,80:6D28D9,100:06B6D4" />
+<br>
+
+<div align="center">
+
+<img width="48%" src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" />
+
+<img width="48%" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" />
+
+</div>
 
 </div>
 
