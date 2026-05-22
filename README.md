@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F0C29,50:302B63,100:24243E&text=MOHAMED%20ARAFATH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GRAPHIC%20DESIGNER%20•%20CREATIVE%20DEVELOPER&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=MOHAMED%20ARAFATH&fontAlign=50&fontAlignY=38&fontSize=68&desc=GRAPHIC%20DESIGNER%20•%20CREATIVE%20DEVELOPER%20•%20VISUAL%20ARTIST&descAlignY=60&animation=twinkling&fontColor=ffffff&color=0:050816,25:130F40,50:3B1E70,75:6A00FF,100:00E5FF" />
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNnNm1wN3R3ZXJ4dGRmZ3l0NXFwbWx0NGF0bnM1YmN6dHkwdjRxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Cinematic+Poster+Designer;Creative+UI%2FUX+Explorer;Modern+Frontend+Developer;Building+Premium+Visual+Experiences;Designing+Futuristic+Digital+Worlds" />
 
@@ -8,9 +10,19 @@
 
 ---
 
-# 🌌 WHO AM I?
+# ⚡ DIGITAL CREATOR PROFILE
+
+<div align="center">
 
 ```txt
+🎬 CINEMATIC VISUAL STORYTELLER
+🌌 DARK UI & FUTURISTIC DESIGN LOVER
+⚡ CREATIVE FRONTEND EXPLORER
+🚀 BUILDING A DIGITAL EMPIRE FRAME BY FRAME
+🔥 TURNING SIMPLE IDEAS INTO PREMIUM EXPERIENCES
+```
+
+</div>txt
 🎨 Turning ideas into cinematic visuals
 ⚡ Designing futuristic digital experiences
 🚀 Learning modern frontend development
@@ -19,7 +31,7 @@
 
 ---
 
-# 🧠 CREATIVE STACK
+# 🧬 CREATIVE DNA
 
 <div align="center">
 
@@ -40,7 +52,7 @@
 
 ---
 
-# 🚀 CURRENT MISSION
+# 🛸 CURRENT TRANSMISSION
 
 <div align="center">
 
@@ -53,7 +65,7 @@
 
 ---
 
-# 🖼 FEATURED CREATIVE WORK
+# 🎞 FEATURED VISUAL EXPERIENCES
 
 <div align="center">
 
@@ -67,7 +79,7 @@
 
 ---
 
-# 📈 GITHUB ANALYTICS
+# 📡 NEURAL ACTIVITY MATRIX
 
 <div align="center">
 
@@ -81,7 +93,7 @@
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 🌍 ENTER MY DIGITAL WORLD
 
 <div align="center">
 
@@ -105,7 +117,7 @@
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 🐍 NEON CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -115,7 +127,7 @@
 
 ---
 
-# 👀 PROFILE VIEWS
+# 👁 VISITOR SCANNER
 
 <div align="center">
 
@@ -127,7 +139,9 @@
 
 <div align="center">
 
-# ✨ "Designing visuals that feel cinematic & futuristic." ✨
+# ✨ "Crafting cinematic digital experiences beyond imagination." ✨
+
+### 🌌 Welcome to the future of creative design 🚀
 
 </div>
 
