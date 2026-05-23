@@ -95,19 +95,6 @@ Frontend coding environment
 
 </div>
 
----
-
-# ✦ FEATURED VISUAL PROJECT
-
-<div align="center">
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750739-fd6f5c6c-4d9d-4f93-9f5b-6d5d9e5a6f0a.gif" />
-
-## 🍦 POSTERS-ICE-CREAMS
-
-A vibrant commercial poster project designed with bold typography, cinematic composition, and modern promotional aesthetics.
-
-</div>
 
 ---
 
@@ -178,7 +165,17 @@ A vibrant commercial poster project designed with bold typography, cinematic com
 </div>
 
 ---
+## 📌 Featured Projects
 
+### 🚀 Custom-Packaging-Design---Real-Tea-
+🔗 [[https://github.com/Arafath18/project-name](https://github.com/Arafath18/Tech-Buzz-Mobile-Store-E-Commerce-Website/tree/main/techbuzz-main)](https://github.com/Mr-Arafath/Custom-Packaging-Design---Real-Tea-)
+
+
+### 🤖 POSTERS-ICE-CREAMS
+🔗 [[https://github.com/Arafath18/project-name](https://github.com/Arafath18/Diabetic-prediction)
+](https://github.com/Mr-Arafath/POSTERS-ICE-CREAMS)
+
+---
 # 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
