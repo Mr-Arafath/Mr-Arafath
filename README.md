@@ -43,13 +43,32 @@
 
 <div align="center">
 
-### 🎨 Design Tools
+### 🎨 Design & Creative
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&theme=dark" />
 
 <br/>
 
-### 💻 Development Stack
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,github&theme=dark" />
+### 💻 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,vscode,github&theme=dark" />
+
+<br/>
+
+### 🗄️ Backend & Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+
+<br/>
+
+### 🤖 AI & Machine Learning
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-F97316?style=for-the-badge&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-FACC15?style=for-the-badge&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-F97316?style=for-the-badge&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-FACC15?style=for-the-badge&logoColor=black)
+
+<br/>
+
+### 🛠️ Tools & Platforms
+![Canva](https://img.shields.io/badge/Canva-F97316?style=for-the-badge&logo=canva&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-FACC15?style=for-the-badge&logoColor=black)
 
 <br/><br/>
 
@@ -58,7 +77,9 @@
 | 🎬 **Poster Design** | Photoshop · Photopea · Cinematic compositing & retouching |
 | 🎨 **UI/UX Design** | Figma · Wireframing · High-fidelity prototypes |
 | 🖼️ **Visual Branding** | Canva · Packaging design · Social media creatives |
-| 🌐 **Frontend Dev** | HTML5 · CSS3 · JavaScript · Responsive layouts |
+| 🌐 **Frontend Dev** | HTML5 · CSS3 · JavaScript · React · PHP · Responsive layouts |
+| 🗄️ **Backend & DB** | MongoDB · SQL · Database design & querying |
+| 🤖 **AI / ML** | Prompt Engineering · LLM · RAG pipelines · CNN models |
 | 🔧 **Workflow** | VS Code · GitHub · Version control |
 
 </div>
@@ -171,3 +192,5 @@ A vibrant series of cinematic ice cream advertisement posters — bold compositi
 <br/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F97316,50:8B4500,100:000000" />
