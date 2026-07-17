@@ -1,14 +1,10 @@
 <div align="center">
-<div align="center">
 
-```yaml
-  Mohamed Arafath A    
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=280&color=0:000000,30:0F0500,60:2D1200,85:8B4500,100:F97316&text=MOHAMED%20ARAFATH%20A&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Graphic%20Designer%20%E2%80%A2%20Visual%20Artist%20%E2%80%A2%20Creative%20Developer&descSize=18&descAlignY=68&descColor=FACC15" />
 
-</div>
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&duration=2800&pause=900&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Crafting+cinematic+visual+experiences+✦;Transforming+ideas+into+premium+designs+🎬;Building+futuristic+digital+aesthetics+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=22&duration=2800&pause=900&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=Crafting+cinematic+visual+experiences+%E2%9C%A6;Transforming+ideas+into+premium+designs+%F0%9F%8E%AC;Building+futuristic+digital+aesthetics+%F0%9F%8C%8C;Creative+developer+from+Coimbatore%2C+India+%F0%9F%9A%80" />
 
 <br/>
 
@@ -50,14 +46,12 @@
 ### 🎨 Design Tools
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&theme=dark" />
 
+<br/>
+
 ### 💻 Development Stack
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,github&theme=dark" />
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 | Domain | Tools & Skills |
 |:---:|:---|
@@ -76,7 +70,7 @@
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mr-Arafath&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F97316&icon_color=FACC15&text_color=ffffff&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Arafath&hide_border=true&background=0A0A0A&stroke=F97316&ring=FACC15&fire=F97316&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Mr-Arafath&hide_border=true&background=0A0A0A&stroke=F97316&ring=FACC15&fire=F97316&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa" />
 
 <br/><br/>
 
@@ -146,11 +140,21 @@ A vibrant series of cinematic ice cream advertisement posters — bold compositi
 
 ---
 
-## ◈ CONTRIBUTION SNAKE
+## ◈ CONNECT WITH ME
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<a href="https://github.com/Mr-Arafath">
+<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mohamed-arafatha/">
+<img src="https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:ARAFATH2005A@GMAIL.COM">
+<img src="https://img.shields.io/badge/Gmail-FACC15?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
 
 </div>
 
@@ -158,7 +162,7 @@ A vibrant series of cinematic ice cream advertisement posters — bold compositi
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=2000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE+✦+CREATIVE+MODE+ACTIVATED;VISUAL+ENGINE+RUNNING+AT+MAXIMUM;WELCOME+TO+MY+DIGITAL+UNIVERSE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=13&duration=2000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE+%E2%9C%A6+CREATIVE+MODE+ACTIVATED;VISUAL+ENGINE+RUNNING+AT+MAXIMUM;WELCOME+TO+MY+DIGITAL+UNIVERSE" />
 
 <br/>
 
@@ -167,3 +171,5 @@ A vibrant series of cinematic ice cream advertisement posters — bold compositi
 <br/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F97316,50:8B4500,100:000000" />
