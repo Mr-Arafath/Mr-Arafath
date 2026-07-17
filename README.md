@@ -1,7 +1,7 @@
 <div align="center">
 
 <img width="100%" src="./banner.png" alt="Mohamed Arafath A — Graphic Designer · Visual Artist · Creative Developer" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=34&duration=1200&pause=900&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=MOHAMED ARAFATH A" />
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&duration=2800&pause=900&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Crafting+cinematic+visual+experiences+✦;Transforming+ideas+into+premium+designs+🎬;Building+futuristic+digital+aesthetics+🚀" />
