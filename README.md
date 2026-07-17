@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=22&duration=2800&pause=900&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=Crafting+cinematic+visual+experiences+%E2%9C%A6;Transforming+ideas+into+premium+designs+%F0%9F%8E%AC;Building+futuristic+digital+aesthetics+%F0%9F%8C%8C;Creative+developer+from+Coimbatore%2C+India+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=22&duration=2800&pause=900&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=110&lines=Crafting+cinematic+visual+experiences+%E2%9C%A6;Transforming+ideas+into+premium+designs+%F0%9F%8E%AC;Building+futuristic+digital+aesthetics+%F0%9F%8C%8C" />
 
 <br/>
 
