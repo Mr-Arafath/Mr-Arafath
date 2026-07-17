@@ -171,5 +171,3 @@ A vibrant series of cinematic ice cream advertisement posters — bold compositi
 <br/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F97316,50:8B4500,100:000000" />
