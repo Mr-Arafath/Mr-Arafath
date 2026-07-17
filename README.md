@@ -20,7 +20,7 @@
 ## ◈ WHO AM I
 
 <div align="center">
-
+<center>
 ```yaml
 ╔══════════════════════════════════════════════════════════╗
 ║                   SYSTEM IDENTITY                        ║
@@ -34,7 +34,7 @@
 ║  Philosophy    :  "Design should feel like an experience"║
 ╚══════════════════════════════════════════════════════════╝
 ```
-
+</center>
 </div>
 
 ---
@@ -128,14 +128,14 @@ A vibrant series of cinematic ice cream advertisement posters — bold compositi
 <div align="center">
 
 ```
- 🎬  Designing cinematic posters with visual impact
- 🌌  Creating futuristic, immersive UI/UX concepts
- 🚀  Building a standout creative portfolio
- ⚡  Exploring motion design & scroll animations
- 🎨  Developing luxury visual branding identities
- 🧠  Mastering React & modern frontend workflows
- 💡  Experimenting with creative coding & WebGL
- 🔥  Turning imagination into interactive digital art
+🎬  Designing cinematic posters with visual impact
+🌌  Creating futuristic, immersive UI/UX concepts
+🚀  Building a standout creative portfolio
+⚡  Exploring motion design & scroll animations
+🎨  Developing luxury visual branding identities
+🧠  Mastering React & modern frontend workflows
+💡  Experimenting with creative coding & WebGL
+🔥  Turning imagination into interactive digital art
 ```
 
 </div>
@@ -163,5 +163,3 @@ A vibrant series of cinematic ice cream advertisement posters — bold compositi
 <br/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:FACC15,40:F97316,70:2D1A00,100:0A0A0A" />
