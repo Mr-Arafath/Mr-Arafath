@@ -90,20 +90,24 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mr-Arafath&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=F97316&icon_color=FACC15&text_color=ffffff&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Mr-Arafath&hide_border=true&background=0A0A0A&stroke=F97316&ring=FACC15&fire=F97316&currStreakLabel=ffffff&sideLabels=ffffff&dates=aaaaaa" />
+<!-- Stats + Streak — most reliable services -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mr-Arafath&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F97316&icon_color=FACC15&text_color=ffffff&ring_color=F97316&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="180" src="https://streak-stats.demolab.com?user=Mr-Arafath&hide_border=true&background=0D0D0D&stroke=F97316&ring=F97316&fire=FACC15&currStreakLabel=FACC15&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Arafath&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=F97316&text_color=ffffff" />
+<!-- Top Languages -->
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Arafath&layout=donut&hide_border=true&bg_color=0D0D0D&title_color=F97316&text_color=ffffff&langs_count=6" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Arafath&custom_title=Arafath%27s+Creative+Activity&bg_color=0A0A0A&color=FACC15&line=F97316&point=ffffff&area=true&hide_border=true" />
+<!-- Activity Graph — most reliable instance -->
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Arafath&custom_title=Arafath%27s+Contribution+Graph&bg_color=0D0D0D&color=F97316&line=FACC15&point=ffffff&area_color=F97316&area=true&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mr-Arafath&theme=onestar&no-frame=true&margin-w=12&margin-h=12&column=4" />
+<!-- Trophies — gruvbox-duo theme is most stable in dark mode -->
+<img width="96%" src="https://github-profile-trophy.vercel.app/?username=Mr-Arafath&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
 
 </div>
 
@@ -192,5 +196,3 @@ A vibrant series of cinematic ice cream advertisement posters — bold compositi
 <br/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F97316,50:8B4500,100:000000" />
