@@ -90,24 +90,19 @@
 
 <div align="center">
 
-<!-- Stats + Streak — most reliable services -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mr-Arafath&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F97316&icon_color=FACC15&text_color=ffffff&ring_color=F97316&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="180" src="https://streak-stats.demolab.com?user=Mr-Arafath&hide_border=true&background=0D0D0D&stroke=F97316&ring=F97316&fire=FACC15&currStreakLabel=FACC15&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-Arafath&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F97316&icon_color=FACC15&text_color=ffffff&include_all_commits=true&count_private=true" />&nbsp;<img height="180em" src="https://streak-stats.demolab.com/?user=Mr-Arafath&hide_border=true&background=0D0D0D&stroke=F97316&ring=F97316&fire=FACC15&currStreakLabel=FACC15&sideLabels=ffffff&dates=888888" />
 
 <br/><br/>
 
-<!-- Top Languages -->
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Arafath&layout=donut&hide_border=true&bg_color=0D0D0D&title_color=F97316&text_color=ffffff&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Arafath&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=F97316&text_color=ffffff&langs_count=8" />
 
 <br/><br/>
 
-<!-- Activity Graph — most reliable instance -->
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Arafath&custom_title=Arafath%27s+Contribution+Graph&bg_color=0D0D0D&color=F97316&line=FACC15&point=ffffff&area_color=F97316&area=true&hide_border=true" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Arafath&custom_title=Arafath%27s+Contribution+Timeline&bg_color=0D0D0D&color=F97316&line=FACC15&point=ffffff&area_color=F97316&area=true&hide_border=true" />
 
 <br/><br/>
 
-<!-- Trophies — gruvbox-duo theme is most stable in dark mode -->
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=Mr-Arafath&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Mr-Arafath&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
 
 </div>
 
