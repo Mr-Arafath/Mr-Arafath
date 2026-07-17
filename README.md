@@ -11,7 +11,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Mr--Arafath-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-Arafath)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Arafath-F97316?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-arafatha/)
 [![Gmail](https://img.shields.io/badge/Gmail-arafath2005a%40gmail.com-FACC15?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ARAFATH2005A@GMAIL.COM)
-[![Profile Views](https://komarev.com/ghpvc/?username=Mr-Arafath&label=Profile+Views&color=F97316&style=for-the-badge)](https://github.com/Mr-Arafath)
 
 </div>
 
