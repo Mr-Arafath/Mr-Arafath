@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=340&color=0:0A0A0A,30:0F0500,60:2D1200,80:8B4500,100:F97316&text=MOHAMED%20ARAFATH%20A&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Graphic%20Designer%20%E2%80%A2%20Visual%20Artist%20%E2%80%A2%20Creative%20Developer&descSize=17&descAlignY=62&descColor=FACC15&stroke=F97316&strokeWidth=2" />
+<img width="100%" src="./banner.svg" alt="Mohamed Arafath A — Graphic Designer · Visual Artist · Creative Developer" />
 
 <br/>
 
@@ -165,4 +165,3 @@ A vibrant series of cinematic ice cream advertisement posters — bold compositi
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:FACC15,40:F97316,70:2D1A00,100:0A0A0A" />
-
