@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./banner.svg" alt="Mohamed Arafath A — Graphic Designer · Visual Artist · Creative Developer" />
+<img width="100%" src="./banner.png" alt="Mohamed Arafath A — Graphic Designer · Visual Artist · Creative Developer" />
 
 <br/>
 
